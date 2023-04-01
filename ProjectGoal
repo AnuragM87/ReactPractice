@@ -1,0 +1,16 @@
+learning  
+map , filter , reuduce to make basic page to create output for the fruits
+
+create componet for fruits
+
+const fruits = [
+  { id: 1, name: "Apple", price: 200 },
+  { id: 2, name: "Orange", price: 54 },
+  { id: 3, name: "Grapes", price: 50 },
+  { id: 4, name: "Pineapple", price: 70 }
+];
+
+problem :
+return all name : price on list
+return list of fruits have more then 60 price 
+return total price.
